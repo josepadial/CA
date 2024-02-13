@@ -5,6 +5,7 @@ This is a repository for the Calculus subject that I took in my first year of th
 ## Contents
 
 - Notes: This folder contains the notes that I took for the Calculus subject. The notes cover the basics of the fundamentals of calculus, limits, derivatives, integrals, etc.
+- Exercises: This folder contains the exercises that I did for the Calculus subject. The exercises are divided into different topics and levels of difficulty.
 
 ## Contact
 
