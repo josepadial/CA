@@ -1,22 +1,11 @@
-# CA
-CA - UGR (Cálculo)
+# Calculus (UGR)
 
-<!-- TABLE OF CONTENTS -->
-## Tabla de contenidos
+This is a repository for the Calculus subject that I took in my first year of the Bachelor's Degree in Computer Engineering at University of Granada (UGR). Here you can find the notes that I did for this subject.
 
-* [Apuntes](#p)
-* [Licencia](#license)
-* [Contacto](#contact)
+## Contents
 
-## Apuntes
-Apuntes tomados de la profesora Pilar Muñoz Rivas
+- Notes: This folder contains the notes that I took for the Calculus subject. The notes cover the basics of the fundamentals of calculus, limits, derivatives, integrals, etc.
 
-<!-- LICENCIA -->
-## Licencia
+## Contact
 
-Distribuido bajo la licencia MIT. Vea `LICENSE` para más información.
-
-<!-- CONTACTO -->
-## Contacto
-
-Jose Antonio Padial Molina - joseapadialmolina@gmail.com
+If you have any questions or suggestions about my repository, you can contact me at joseapadialmolina@gmail.com. Thank you for visiting my GitHub profile. 😊
